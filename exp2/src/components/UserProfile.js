@@ -91,7 +91,7 @@ function UserProfile(props) {
             </ul>
           </div>
           <div className="profile-section">
-            <h2>Contact</h2><br></br>
+            <h2>Contact</h2>
             <a href={`mailto:${email}`} className="contact-btn">
               Email Me
             </a>
