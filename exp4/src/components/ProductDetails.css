@@ -1,0 +1,21 @@
+.product-details {
+  text-align: center;
+  margin: 48px auto;
+  max-width: 600px;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px #4f8cff22;
+  padding: 40px 32px;
+}
+.product-img-large {
+  width: 320px;
+  border-radius: 12px;
+  margin: 18px 0;
+  box-shadow: 0 2px 16px #2d3e5088;
+}
+.price {
+  font-size: 1.2em;
+  color: #4f8cff;
+  font-weight: bold;
+  margin: 12px 0;
+}

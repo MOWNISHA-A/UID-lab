@@ -1,0 +1,15 @@
+.home-page {
+  text-align: center;
+  margin: 0;
+  width: 100vw;
+  min-height: 100vh;
+  background: #f8f9fa;
+  box-sizing: border-box;
+  padding: 48px 0 48px 0;
+}
+.home-img {
+  width: 320px;
+  border-radius: 12px;
+  margin: 18px 0;
+  box-shadow: 0 2px 16px #2d3e5088;
+}
